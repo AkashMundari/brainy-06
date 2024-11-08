@@ -117,7 +117,7 @@ const HeroNav = () => {
               >
                 Register Now!!
               </button>
-              <p className="text-red-500 text-[14px] text-center">
+              <p className=" text-[14px] text-center">
                 <span className="text-black">Better</span>
                 <span className="text-[rgb(2,73,120)] "> Math </span>Better
                 <span className="text-[#b7ce21] "> Brain</span>
